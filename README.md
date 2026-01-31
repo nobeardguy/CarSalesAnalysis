@@ -16,7 +16,7 @@ This was an end-to-end data analytics project using SQL, DAX, and Power BI focus
 -	The Price of Power: Clustered Column charts showing how Price scales with Engine Size across different Fuel Types.
 -	Depreciation Analysis: Scatter plots illustrating the correlation between Mileage and Resale Value.
 -	Model Comparison: A "Top N" filter to identify the most expensive models based on specific technical specs.
--	💡 I also included:
+  ## I also included:
 -	Navigation Buttons: Seamlessly toggle between "Overview" and "Technical Analysis."
 -	Custom Dark Theme: A premium Navy-and-Cyan UI designed for readability.
 ________________________________________
