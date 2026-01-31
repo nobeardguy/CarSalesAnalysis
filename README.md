@@ -1,5 +1,6 @@
   # Automotive Market & Price Analysis Dashboard
 ## 📌 Project Overview
+![Dashboard Demo](./Dashboard/DashBoard2_GIF.gif)
 This was an end-to-end data analytics project using SQL, DAX, and Power BI focusing on analyzing a dataset of 50,000+ car sales records to identify the drivers of market value. By cleaning raw data with SQL and building a high-performance Power BI dashboard, I transformed messy data into actionable insights regarding Depreciation Curves, Engine Performance, and Fuel Type Popularity.
 ## 🛠️ Tech Stack
 -	Data Cleaning: SQL (MySQL) - Handling data types, NULL values, and feature engineering.
